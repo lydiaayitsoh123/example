@@ -1,12 +1,18 @@
 *{
     color:red;
+    text-align: center;
 }
 
 h1{
-    color:yellow;
+    color:blue;
 }
 
 h3{
-    color:aquamarine;
+    color:black;
+}
+img{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
 }
 ]
